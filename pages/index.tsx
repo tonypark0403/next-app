@@ -13,7 +13,7 @@ const StyledButton = styled(({ children, colorOptions, ...props }) => (
 
 export default function Home() {
   return (
-    <div className='container'>
+    <div className="container">
       <StyledButton>Test</StyledButton>
     </div>
   );
